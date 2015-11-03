@@ -1,3 +1,4 @@
+ //Graded
  start:function(){
         //Keyboard settings
         window.onkeydown=function(event){
